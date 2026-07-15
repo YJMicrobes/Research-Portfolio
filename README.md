@@ -38,9 +38,9 @@ This repository serves as a structured academic portfolio to:
 
 ## Updates
 
-This repository is actively maintained and updated periodically.
+YJ joined NYU on July 1 2026. 
 
 ---
 
 ## Contact
-Jing.Yuan@ct.gov
+jy5954@nyu.edu

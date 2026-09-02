@@ -13,7 +13,7 @@ This part explores how microbial communities are structured, interact, evolve, a
 
 ### Publications
 1. **Jing Yuan**, Jacquelyn C LaReau, Doug E Brackney, Blaire Steven. Adaptive Sequencing Resolves Bacterial Genomes from the Mosquito Microbiome: Linking Function to Larval Development, *ISME Host Microbe* (2026): aazag009. \
-https://doi.org/10.1093/ismehm/aazag009 \
+https://doi.org/10.1093/ismehm/aazag009 
 3. **Jing Yuan***, Kankan Zhao, Xiangfeng Tan, Ran Xue, Yuan Zeng, Carlo Ratti, Pankaj Trivedi. Perspective on the development of synthetic microbial community (SynCom) biosensors. *Trends in Biotechnology* (2023), 41(10): 1227-1236. \
 https://doi.org/10.1016/j.tibtech.2023.04.007
 

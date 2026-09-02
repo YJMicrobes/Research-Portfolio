@@ -25,7 +25,7 @@ https://doi.org/10.1016/j.tibtech.2023.04.007
 ______
 ## 2. Soil Microbiome
 
-This research examines plant–soil–microbial interactions in surface ecosystems, linking microbial community structure and environmental drivers to ecosystem responses. It focuses on how climate, water availability, and land use shape these interactions and influence ecosystem function and resilience. In earlier work, I mainly focused on carbon cycling and greenhouse gas fluxes, particularly CO₂ and CH₄. More recently, I have also explored more application-oriented work using microbiome approaches in environmental and agricultural systems.
+This research examines soil-microbial interactions in surface ecosystems, linking microbial community structure and environmental drivers to ecosystem responses. It focuses on how climate, vegetation, and land use shape these interactions and influence ecosystem function and resilience.
 
 
 ### Representative Publications

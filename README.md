@@ -5,38 +5,14 @@ This repository contains a curated overview of my research outputs, including pu
 
 It is intended as a living portfolio for periodic updates and reference.
 
----
 
-## 📄 Contents
-
-### 📚 Publications
-A complete list of peer-reviewed publications organized by research theme:
-- Plant–Soil–Microbial Ecology
-- Anaerobic Biogeochemistry and Environmental Contaminants
-- Microbial Evolution and Predictive Microbiome Systems
-
-👉 See: Research_Publications.md
+Representative Publications: **Research_Publications.md** \
+Conference Activities: **Conference_Activities.md**
 
 ---
 
-### Conference Activities
-Talks, posters, workshops, and academic service activities.
 
-👉 See: Conference_Activities.md
-
----
-
-## Purpose
-
-This repository serves as a structured academic portfolio to:
-- Summarize research contributions
-- Track conference and outreach activities
-- Provide accessible documentation of scholarly work
-- Support collaboration and academic visibility
-
----
-
-## Updates
+## News
 
 YJ joined NYU on July 1 2026. 
 

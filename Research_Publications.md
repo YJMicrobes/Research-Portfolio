@@ -30,11 +30,13 @@ This research examines soil-microbial interactions in surface ecosystems, linkin
 
 ### Representative Publications
 1. **Jing Yuan**, Jacquelyn C. LaReau, Beth Lawrence, Madeleine Meadows-McDonnell, Blaire Steven, Itamar Shabtai*. Thresholds within a soil moisture gradient drive abrupt transitions in microbial community structure resulting in distinct carbon utilization patterns. *Soil Ecology Letters* (2026), 222: 106966. \
-https://doi.org/10.1016/j.apsoil.2026.106966 
+https://doi.org/10.1016/j.apsoil.2026.106966
 1. **Jing Yuan**, Xiaomei Yi, Linkui Cao*. Three-source partitioning of methane emissions from paddy soil: linkage to methanogenic community structure. *International Journal of Molecular Sciences* (2019), 20(7), 1586. \
 https://doi.org/10.3390/ijms20071586
 1. **Jing Yuan**, Yongkun Yuan, Yihang Zhu, Linkui Cao*. Effects of different fertilizers on methane emissions and methanogenic community structures in paddy rhizosphere soil. *Science of the Total Environment* (2018), 627: 770-781. \
 https://doi.org/10.1016/j.scitotenv.2018.01.233
+1. Ayodeji Bello#, **Jing Yuan**#, Kamal Chhetri, Ran Yang, Jiayu Dong, Priyanka Gangwar, Ruizhu Shi, Zhenshan Chen, T. David Reed, Ryan Stewart, Yiming Feng, Yuan Zeng. Reduced soil microbial diversity and altered co-occurrence networks associated with Phytophthora nicotianae infection in flue-cured tobacco fields. *mSphere* (2026). \
+https://doi.org/10.1128/msphere.00501-26
 1. Jiahui Lin, Hengyi Dai, **Jing Yuan**, Caixian Tang, Bin Ma, Jianming Xu*. Arsenic-induced enhancement of diazotrophic recruitment and nitrogen fixation in Pteris vittata rhizosphere. *Nature Communications* (2024), 15: 10003.  \
 https://doi.org/10.1038/s41467-024-54392-x
 

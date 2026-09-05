@@ -9,7 +9,7 @@ My research focuses on understanding how they function and how we can interpret 
 ______
 ## 1. Microbial Ecology and Community Dynamics
 
-This part explores how microbial communities are structured, interact, evolve, and influence ecological functions across host-associated and environmental systems. It includes genome-resolved omics, high-throughput sequencing, and modeling to link microbial community composition with function and environmental outcomes.
+This part explores how microbial communities are structured, interact, evolve, and influence ecological functions across host-associated and environmental systems. It includes omics and modeling to link microbial community composition with function and environmental outcomes.
 
 ### Publications
 1. **Jing Yuan**, Jacquelyn C LaReau, Doug E Brackney, Blaire Steven. Adaptive Sequencing Resolves Bacterial Genomes from the Mosquito Microbiome: Linking Function to Larval Development, *ISME Host Microbe* (2026): aazag009. \
@@ -25,8 +25,7 @@ https://doi.org/10.1016/j.tibtech.2023.04.007
 ______
 ## 2. Soil Microbiome
 
-This research examines soil-microbial interactions in surface ecosystems, linking microbial community structure and environmental drivers to ecosystem responses. It focuses on how climate, vegetation, and land use shape these interactions and influence ecosystem function and resilience.
-
+This research examines soil–microbial interactions and their responses to changes in climate, vegetation, and land use, as well as how these changes influence ecosystem function and resilience.
 
 ### Representative Publications
 1. **Jing Yuan**, Jacquelyn C. LaReau, Beth Lawrence, Madeleine Meadows-McDonnell, Blaire Steven, Itamar Shabtai*. Thresholds within a soil moisture gradient drive abrupt transitions in microbial community structure resulting in distinct carbon utilization patterns. *Soil Ecology Letters* (2026), 222: 106966. \

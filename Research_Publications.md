@@ -2,7 +2,7 @@
 > Jing Yuan, Ph.D.
 
 Lab Voice:\
-Microbes are already there. \
+Microbes are already there or about to be there. \
 My research focuses on understanding how they function and how we can interpret and apply that knowledge.
 
 

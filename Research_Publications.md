@@ -1,31 +1,28 @@
-# Research Areas - Publications
+# Research Area
 > Jing Yuan, Ph.D.
 
-Lab Voice:\
-Microbes are already there or about to be there. \
-My research focuses on understanding how they function and how we can interpret and apply that knowledge.
-
+Before Lab:\
+One World, One Microbe. 
 
 ______
 ## 1. Microbial Ecology and Community Dynamics
 
-This part explores how microbial communities are structured, interact, evolve, and influence ecological functions across host-associated and environmental systems. It includes omics and modeling to link microbial community composition with function and environmental outcomes.
+I explore how microbial communities are structured, interact, evolve, and influence functions in diverse ecosystems.
 
 ### Publications
 1. **Jing Yuan**, Jacquelyn C LaReau, Doug E Brackney, Blaire Steven. Adaptive Sequencing Resolves Bacterial Genomes from the Mosquito Microbiome: Linking Function to Larval Development, *ISME Host Microbe* (2026): aazag009. \
 https://doi.org/10.1093/ismehm/aazag009 
-3. **Jing Yuan***, Kankan Zhao, Xiangfeng Tan, Ran Xue, Yuan Zeng, Carlo Ratti, Pankaj Trivedi. Perspective on the development of synthetic microbial community (SynCom) biosensors. *Trends in Biotechnology* (2023), 41(10): 1227-1236. \
+1. **Jing Yuan***, Kankan Zhao, Xiangfeng Tan, Ran Xue, Yuan Zeng, Carlo Ratti, Pankaj Trivedi. Perspective on the development of synthetic microbial community (SynCom) biosensors. *Trends in Biotechnology* (2023), 41(10): 1227-1236. \
 https://doi.org/10.1016/j.tibtech.2023.04.007
 
 
 ### Ongoing Research
-> ML-Microbiome Signature \
 > Eco-Evolutionary Dynamics
 
 ______
-## 2. Soil Microbiome
+## 2. Soil Microbiome and Environmental Changes
 
-This research examines soil–microbial interactions and their responses to changes in climate, vegetation, and land use, as well as how these changes influence ecosystem function and resilience.
+I study the microbial interactions in soils and focus on the community function and resilience to different environmental variables.
 
 ### Representative Publications
 1. **Jing Yuan**, Jacquelyn C. LaReau, Beth Lawrence, Madeleine Meadows-McDonnell, Blaire Steven, Itamar Shabtai*. Thresholds within a soil moisture gradient drive abrupt transitions in microbial community structure resulting in distinct carbon utilization patterns. *Soil Ecology Letters* (2026), 222: 106966. \
@@ -48,7 +45,7 @@ https://doi.org/10.1038/s41467-024-54392-x
 ______
 ## 3. Methanogenesis and Reductive Dechlorination
 
-This research investigates biochemical processes in anaerobic and flooded environments, focusing on methane cycling, redox transformations, and microbial degradation of environmental pollutants. It emphasizes how microbial metabolism drives both carbon flow and contaminant fate in natural and impacted systems.
+My research started with methane emissions and methanogens of rice paddy soil and then expand to identify potential functions of methanogens, such as biodegradation of chlorinated organic pollutants in anaerobic/flooded environments.
 
 ### Representative Publications
 1. **Jing Yuan**, Shuyao Li, Jie Cheng, Chenxi Guo, Chaofeng Shen, Jianzhong He, Yi Yang, Peijun Hu, Jianming Xu, Yan He*. Potential role of methanogens in microbial reductive dechlorination of organic chlorinated pollutants in situ. *Environmental Science & Technology* (2021), 55(9): 5917–5928. \

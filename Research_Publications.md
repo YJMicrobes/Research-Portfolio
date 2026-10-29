@@ -1,4 +1,4 @@
-# Research Area
+# Research Publications
 > Jing Yuan, Ph.D.
 
 Before Lab:\

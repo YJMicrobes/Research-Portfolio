@@ -2,7 +2,8 @@
 > Jing Yuan, Ph.D.
 
 Before Lab:\
-One World, One Microbe. 
+One World, One Microbe \
+Nah, different...
 
 ______
 ## 1. Microbial Ecology and Community Dynamics

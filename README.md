@@ -11,7 +11,7 @@ ______
 I explore how microbial communities are structured, interact, evolve, and influence functions in diverse ecosystems.
 
 ### Publications
-1. **Jing Yuan**, Jacquelyn C LaReau, Doug E Brackney, Blaire Steven. Adaptive Sequencing Resolves Bacterial Genomes from the Mosquito Microbiome: Linking Function to Larval Development, *ISME Host Microbe* (2026): aazag009. \
+1. **Jing Yuan**, Jacquelyn C LaReau, Doug E Brackney, Blaire Steven*. Adaptive Sequencing Resolves Bacterial Genomes from the Mosquito Microbiome: Linking Function to Larval Development, *ISME Host Microbe* (2026): aazag009. \
 https://doi.org/10.1093/ismehm/aazag009 
 1. **Jing Yuan***, Kankan Zhao, Xiangfeng Tan, Ran Xue, Yuan Zeng, Carlo Ratti, Pankaj Trivedi. Perspective on the development of synthetic microbial community (SynCom) biosensors. *Trends in Biotechnology* (2023), 41(10): 1227-1236. \
 https://doi.org/10.1016/j.tibtech.2023.04.007
@@ -32,7 +32,7 @@ https://doi.org/10.1016/j.apsoil.2026.106966
 https://doi.org/10.3390/ijms20071586
 1. **Jing Yuan**, Yongkun Yuan, Yihang Zhu, Linkui Cao*. Effects of different fertilizers on methane emissions and methanogenic community structures in paddy rhizosphere soil. *Science of the Total Environment* (2018), 627: 770-781. \
 https://doi.org/10.1016/j.scitotenv.2018.01.233
-1. Ayodeji Bello#, **Jing Yuan**#, Kamal Chhetri, Ran Yang, Jiayu Dong, Priyanka Gangwar, Ruizhu Shi, Zhenshan Chen, T. David Reed, Ryan Stewart, Yiming Feng, Yuan Zeng. Reduced soil microbial diversity and altered co-occurrence networks associated with Phytophthora nicotianae infection in flue-cured tobacco fields. *mSphere* (2026). \
+1. Ayodeji Bello#, **Jing Yuan**#, Kamal Chhetri, Ran Yang, Jiayu Dong, Priyanka Gangwar, Ruizhu Shi, Zhenshan Chen, T. David Reed, Ryan Stewart, Yiming Feng, Yuan Zeng*. Reduced soil microbial diversity and altered co-occurrence networks associated with Phytophthora nicotianae infection in flue-cured tobacco fields. *mSphere* (2026). \
 https://doi.org/10.1128/msphere.00501-26
 1. Jiahui Lin, Hengyi Dai, **Jing Yuan**, Caixian Tang, Bin Ma, Jianming Xu*. Arsenic-induced enhancement of diazotrophic recruitment and nitrogen fixation in Pteris vittata rhizosphere. *Nature Communications* (2024), 15: 10003.  \
 https://doi.org/10.1038/s41467-024-54392-x
@@ -78,6 +78,6 @@ ______
 >
 _______
 Notes: \
- ‘#’ – Contributed equally; ‘*’ – Corresponding author. \
-I will update this from time to time. \
-Feel free to reach out.
+ ‘#’ – Contributed equally; ‘*’ – Corresponding author. 
+
+
